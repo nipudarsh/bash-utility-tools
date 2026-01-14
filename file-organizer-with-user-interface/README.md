@@ -206,11 +206,9 @@ Ideal for portfolio, demos, and automation learning.
 
 ⭐ Star this repo if you find it useful!
 
-```
-
 
 
 If you want, I can **also create a visual version** with **screenshots of the UI, folder structure, and flow diagram** that makes this repo **portfolio-ready for recruiters**.  
 
 Do you want me to do that next?
-```
+
